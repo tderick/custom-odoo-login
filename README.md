@@ -1,7 +1,7 @@
 [![License: LGPL v3](https://img.shields.io/badge/License-LGPL_v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
 
 ## Information
-This is a simple addons for odoo with the only purpose of removing the text **Manage Databases** and **Powered by Odoo** at the bottom of the login form. 
+This is a simple addon for odoo with the only purpose of removing the text **Manage Databases** and **Powered by Odoo** at the bottom of the login form. 
 
 ## Before installing the module
 

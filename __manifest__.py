@@ -3,7 +3,7 @@
     'name': "custom_login",
     'description': """Remove *Manage Databases* and *Powered by Odoo* at the bottom of the login page""",
     'author': "DERICK TEMFACK",
-    'website': "https://temfack.com",
+    'website': "https://github.com/tderick/custom-odoo-login",
     'category': 'Uncategorized',
     'version': '0.1',
     'application': False,
